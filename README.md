@@ -1,2 +1,0 @@
-# barsoft-widget
-cool
